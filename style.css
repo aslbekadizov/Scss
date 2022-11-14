@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+* h1 {
+  color: aquamarine;
+  border: 2px dashed black;
+  padding: 10px;
+  background-color: beige;
+  text-align: center;
+}
+* ul {
+  margin-bottom: 30px;
+  color: #777;
+  border-radius: 20px;
+}/*# sourceMappingURL=style.css.map */
